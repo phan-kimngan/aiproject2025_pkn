@@ -2,14 +2,13 @@
 
 Prof: Hyung–Jeong Yang
 
-## Task: Combining Video Class Solution with Face Recognition Solution
+## Task: Development of AI Text Summarization Feature
 
 Name: Kim Ngan Phan
 
-ID: 24847
-
 ⛔ ***Only used for demonstration of the subject***
 ### Overview
+As communication becomes increasingly digital and remote, a large amount of voice content is generated in diverse contexts. Con verting this voice con tent into structured and meaningful insights is crucial for effec tive in forma tion retrieval, documen tation , and decision-making. This project focuses on developing an automa ted system that creates informa tive summaries from full- text transcriptions produced by speech-to-text (STT) systems. It is specifically designed for Korean conversations in the con text of personal and relationship topics.
 ### Set up environment. 
 + Create a python project_ai_env environment using conda or other tools.
 
