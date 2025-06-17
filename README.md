@@ -20,7 +20,7 @@ conda activate project_ai_env
 + Instead packages in requirements.txt
 ```bash
 pip install -r requirements.txt
-
+```
 ### Project Structure
 
 * Create the following directories to store the original JSON files:
