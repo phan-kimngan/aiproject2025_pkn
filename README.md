@@ -21,7 +21,7 @@ conda activate project_ai_env
 pip install -r requirements.txt
 ```
 ### Project Structure
-* Data is collect from aihub
+* Json data is collect from aihub
 * Create the following directories to store the original JSON files:
 
   * **Training/[라벨]한국어대화요약_train/[라벨]한국어대화요약_train**
